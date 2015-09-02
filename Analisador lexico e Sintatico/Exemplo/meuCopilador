@@ -1,0 +1,20 @@
+public class myTest
+{ 
+	string teste1 = "teste1";
+	string teste2 = "teste2";
+	string teste3 = "teste3";
+	int testeInt1 = 1;
+	float testeF1 = 1;
+	bool b1 = true; b2 = false; 	//ver isso dps
+	
+	while(b1==true){
+		b1=false;
+	}
+	for(int i=0;i<3;i++){
+		testeInt1 = testeInt1 + 1;
+	}
+	do{
+	b2=false;
+	}while(b2==true);
+
+}

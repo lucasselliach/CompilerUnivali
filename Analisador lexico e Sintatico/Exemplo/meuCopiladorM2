@@ -1,0 +1,17 @@
+
+public class myTest
+{ 
+	int i=2;
+	int y; 
+	int j;
+	while(i<10){
+	}
+	in(y);
+	while(y<19){
+	}
+	
+	for(int k=9;k<i;k++){
+	}
+	j=i+y;
+	out(j);
+}
