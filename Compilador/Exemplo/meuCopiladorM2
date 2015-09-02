@@ -1,0 +1,14 @@
+public class myTest
+{ 
+	int i=2;
+	int y = 5; 
+	int j = 6;
+	int o = 4;
+	int k;
+	int m;
+	in(k);
+	out(j);
+	o = 3;
+	m = 1;
+
+}
